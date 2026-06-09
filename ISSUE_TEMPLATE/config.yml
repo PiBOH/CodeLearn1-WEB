@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ❓ GitHub Discussions
+    url: https://github.com/PiBOH/CodeLearn/discussions
+    about: Use this for Q&A and general ideas that are not yet feature requests.

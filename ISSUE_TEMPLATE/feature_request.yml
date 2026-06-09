@@ -1,0 +1,47 @@
+name: 🚀 Richiesta di Funzionalità
+description: Have an idea? Pitch it!
+title: "[Feat]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 💡 Feature Proposal
+        Aiuta a migliorere CodeLearn.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: 🏷️ Category
+      options:
+        - ✨ Nuova Funzione
+        - 🎨 UI / Design Improvement
+        - ⚡ Performance / Optimization
+        - 🌐 Translation / Localization
+        - 🔧 Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 📝 Cosa
+      description: Descrivi in maniera dettagliata la tua idea. Come dovrebbe funzionare?
+      placeholder: "I would love to see..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 🤝 Cosa dovrebbe risolvere/aggiungere/migliorare?
+      description: Perché questa feature è necessaria? Cosa sistemerebbe?
+      placeholder: "Attualmente è difficile..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: 🎨 Mockups / Screenshots / Extras
+      description: Drop images or sketches here if you have them!
