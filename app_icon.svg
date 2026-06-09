@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#6366f1"/>
+  <path d="M30 35 L15 50 L30 65" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 35 L85 50 L70 65" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="55" y1="25" x2="45" y2="75" stroke="#fbbf24" stroke-width="8" stroke-linecap="round"/>
+  <text x="85" y="90" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">W</text>
+</svg>
