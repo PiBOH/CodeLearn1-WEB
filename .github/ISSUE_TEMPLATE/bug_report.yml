@@ -14,7 +14,7 @@ body:
     attributes:
       label: Pre-flight Checklist
       options:
-        - label: Utilizzo [l'ultima versione](https://github.com/PiBOH/CodeLearn/releases/latest) dell' app.
+        - label: Utilizzo [l'ultima versione](https://github.com/PiBOH/CodeLearn1-WEB/releases/latest) dell' app.
           required: true
         - label: Ho verificato e non esiste un' altra issue simile
           required: true
@@ -75,56 +75,6 @@ body:
   - type: markdown
     attributes:
       value: "---"
-      
-  - type: dropdown
-    id: os-type
-    attributes:
-      label: 💿 Che OS usi?
-      options:
-        - Windows
-        - MacOS
-        - iOS (iPhone)
-        - Linux (Android)
-        - Linux (Debian and derivates)
-        - Linux (Arch and derivates)
-        - Linux Other
-        - Nessuno di questi (specificare)
-    validations:
-      required: true
-      
-  - type: dropdown
-    id: win-ver
-    attributes:
-      label: 🪟 Windows Version?
-      options:
-        - Windows 11
-        - Windows 10
-        - Windows 8 / 8.1 (Preview)
-        - Windows 7 (Preview)
-        - Windows Vista (Preview)
-        - Windows XP (Preview)
-        - Windows LEGACY VERSION
-        - I don't use windows
-    validations:
-      required: true
-      
-  - type: dropdown
-    id: android-version
-    attributes:
-      label: 🤖 Android Version
-      options:
-        - Android 17 (Preview)
-        - Android 16 (Preview)
-        - Android 15
-        - Android 14
-        - Android 13
-        - Android 12
-        - Android 11 (Preview)
-        - Android 10 (Preview)
-        - Android 9 or older (Preview)
-        - Custom ROM (es LineageOS,CRDroid, etc....)
-    validations:
-      required: false
 
   - type: input
     id: app-version
