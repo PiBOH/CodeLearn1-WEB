@@ -106,7 +106,7 @@ body:
         - Windows LEGACY VERSION
         - I don't use windows
     validations:
-      required: false
+      required: true
       
   - type: dropdown
     id: android-version
@@ -119,10 +119,10 @@ body:
         - Android 14
         - Android 13
         - Android 12
-        - Android 11
-        - Android 10
-        - Android 9 or older
-        - Custom ROM (es LineageOS)
+        - Android 11 (Preview)
+        - Android 10 (Preview)
+        - Android 9 or older (Preview)
+        - Custom ROM (es LineageOS,CRDroid, etc....)
     validations:
       required: false
 
