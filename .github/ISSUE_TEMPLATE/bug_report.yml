@@ -95,6 +95,10 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: "---"
+
   - type: input
     id: app-version
     attributes:
