@@ -75,12 +75,31 @@ body:
   - type: markdown
     attributes:
       value: "---"
+      
+  - type: dropdown
+    id: android-version
+    attributes:
+      label: 🤖 Android Version
+      options:
+        - I Don't use Android
+        - Android 17 (Preview)
+        - Android 16 (Preview)
+        - Android 15
+        - Android 14
+        - Android 13
+        - Android 12
+        - Android 11 (Preview)
+        - Android 10 (Preview)
+        - Android 9 or older (Preview)
+        - Custom ROM (es LineageOS, CRDroid, etc...)
+    validations:
+      required: true
 
   - type: input
     id: app-version
     attributes:
       label: 📦 App Version
-      placeholder: e.g. 1.1.2c-3a (Check Profile -> Info)
+      placeholder: e.g. 1.0.0d (check app info)
     validations:
       required: true
 
