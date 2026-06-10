@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:2:1-39:12
 MERGED from [androidx.navigation:navigation-runtime-android:2.9.7] C:\Users\Utente\.gradle\caches\8.11.1\transforms\b92129a2f1806d8b977361ac81562e6a\transformed\navigation-runtime-release\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-android:2.9.7] C:\Users\Utente\.gradle\caches\8.11.1\transforms\2bc07dd9c4111091f92586256dba2d01\transformed\navigation-common-release\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-compose-android:2.9.7] C:\Users\Utente\.gradle\caches\8.11.1\transforms\facc4375c3029f2f1cba5cb2aa889f9b\transformed\navigation-compose-release\AndroidManifest.xml:2:1-7:12
@@ -87,24 +87,24 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Utente\.gradle\c
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\226fca306039cad96d56f5f786c5fe27\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\d9afc4b60595ef94299c81b228cfb66b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:5:5-79
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:5:5-79
 	android:name
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:5:22-76
 application
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:7:5-37:19
-INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:7:5-37:19
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:7:5-37:19
+INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:7:5-37:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.10.2] C:\Users\Utente\.gradle\caches\8.11.1\transforms\d6eb0824797a0a3af48478c52efac793\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.10.2] C:\Users\Utente\.gradle\caches\8.11.1\transforms\d6eb0824797a0a3af48478c52efac793\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.window:window:1.5.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\8f51aadd5101a30c414b593d80986311\transformed\window-1.5.0\AndroidManifest.xml:22:5-29:19
@@ -122,65 +122,65 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\Utente\.
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Utente\.gradle\caches\8.11.1\transforms\7ad46b2f7da6a362a93f0ccef963bad2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Utente\.gradle\caches\8.11.1\transforms\7ad46b2f7da6a362a93f0ccef963bad2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:12:9-72
-meta-data#com.agon.app.author
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:15:9-17:37
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:12:9-72
+meta-data#com.codelearnweb.app.author
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:15:9-17:37
 	android:value
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:17:13-34
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:17:13-34
 	android:name
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:16:13-47
-meta-data#com.agon.app.website
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:18:9-20:56
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:16:13-55
+meta-data#com.codelearnweb.app.website
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:18:9-20:56
 	android:value
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:20:13-53
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:20:13-53
 	android:name
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:19:13-48
-meta-data#com.agon.app.repository
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:21:9-23:71
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:19:13-56
+meta-data#com.codelearnweb.app.repository
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:21:9-23:71
 	android:value
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:23:13-68
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:23:13-68
 	android:name
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:22:13-51
-meta-data#com.agon.app.license
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:24:9-26:44
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:22:13-59
+meta-data#com.codelearnweb.app.license
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:24:9-26:44
 	android:value
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:26:13-41
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:26:13-41
 	android:name
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:25:13-48
-activity#com.agon.app.MainActivity
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:28:9-36:20
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:25:13-56
+activity#com.codelearnweb.app.MainActivity
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:28:9-36:20
 	android:windowSoftInputMode
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:31:13-55
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:31:13-55
 	android:exported
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:30:13-36
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:29:13-41
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:29:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:32:13-35:29
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:32:13-35:29
 action#android.intent.action.MAIN
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:33:17-69
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:34:17-77
+ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:34:27-74
 uses-sdk
-INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml
-INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml
+INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml
+INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-runtime-android:2.9.7] C:\Users\Utente\.gradle\caches\8.11.1\transforms\b92129a2f1806d8b977361ac81562e6a\transformed\navigation-runtime-release\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime-android:2.9.7] C:\Users\Utente\.gradle\caches\8.11.1\transforms\b92129a2f1806d8b977361ac81562e6a\transformed\navigation-runtime-release\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common-android:2.9.7] C:\Users\Utente\.gradle\caches\8.11.1\transforms\2bc07dd9c4111091f92586256dba2d01\transformed\navigation-common-release\AndroidManifest.xml:20:5-44
@@ -346,9 +346,9 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\d9afc4b60595ef94299c81b228cfb66b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\d9afc4b60595ef94299c81b228cfb66b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml
+		INJECTED from D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling-android:1.10.2] C:\Users\Utente\.gradle\caches\8.11.1\transforms\d6eb0824797a0a3af48478c52efac793\transformed\ui-tooling\AndroidManifest.xml:23:9-25:39
 	android:exported
@@ -395,7 +395,7 @@ ADDED from [androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\tra
 		ADDED from [androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
-permission#com.agon.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#com.codelearnweb.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
@@ -405,7 +405,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
-uses-permission#com.agon.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#com.codelearnweb.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:26:22-94

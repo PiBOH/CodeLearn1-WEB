@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.agon.app-mergeDebugResources-44:/values-sq/values-sq.xml",
+            "outputFile": "com.codelearnweb.app-mergeDebugResources-44:/values-sq/values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Utente\\.gradle\\caches\\8.11.1\\transforms\\f26dbb91fca3cbbd658aa8f1d981041a\\transformed\\foundation\\res\\values-sq\\values-sq.xml",

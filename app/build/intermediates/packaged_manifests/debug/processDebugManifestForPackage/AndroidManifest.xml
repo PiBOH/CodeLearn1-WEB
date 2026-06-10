@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.agon.app"
+    package="com.codelearnweb.app"
     android:versionCode="1"
-    android:versionName="1.0.0c-1" >
+    android:versionName="1.0.0d" >
 
     <uses-sdk
         android:minSdkVersion="24"
@@ -12,10 +12,10 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <permission
-        android:name="com.agon.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.codelearnweb.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.agon.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.codelearnweb.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -29,20 +29,20 @@
 
         <!-- App metadata - visible in App Info on some Android versions/launchers -->
         <meta-data
-            android:name="com.agon.app.author"
+            android:name="com.codelearnweb.app.author"
             android:value="PiBOH" />
         <meta-data
-            android:name="com.agon.app.website"
+            android:name="com.codelearnweb.app.website"
             android:value="https://piboh.github.io/" />
         <meta-data
-            android:name="com.agon.app.repository"
+            android:name="com.codelearnweb.app.repository"
             android:value="https://github.com/PiBOH/CodeLearn1-WEB" />
         <meta-data
-            android:name="com.agon.app.license"
+            android:name="com.codelearnweb.app.license"
             android:value="GNU AGPL 3.0" />
 
         <activity
-            android:name="com.agon.app.MainActivity"
+            android:name="com.codelearnweb.app.MainActivity"
             android:exported="true"
             android:windowSoftInputMode="adjustResize" >
             <intent-filter>
@@ -64,7 +64,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.agon.app.androidx-startup"
+            android:authorities="com.codelearnweb.app.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

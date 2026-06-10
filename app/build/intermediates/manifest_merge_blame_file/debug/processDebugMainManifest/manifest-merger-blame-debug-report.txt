@@ -1,91 +1,91 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.agon.app"
+3    package="com.codelearnweb.app"
 4    android:versionCode="1"
-5    android:versionName="1.0.0c-1" >
+5    android:versionName="1.0.0d" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
 9        android:targetSdkVersion="36" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:4:5-67
-11-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:4:22-64
+11-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:4:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:5:5-79
-12-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:5:22-76
+12-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:5:5-79
+12-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:5:22-76
 13
 14    <permission
 14-->[androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
-15        android:name="com.agon.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15        android:name="com.codelearnweb.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 15-->[androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
 16        android:protectionLevel="signature" />
 16-->[androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
 17
-18    <uses-permission android:name="com.agon.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18    <uses-permission android:name="com.codelearnweb.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 18-->[androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
 18-->[androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
 19
 20    <application
-20-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:7:5-37:19
+20-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:7:5-37:19
 21        android:allowBackup="true"
-21-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:8:9-35
+21-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:8:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 22-->[androidx.core:core:1.16.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\ecf3111fd5d42c709c045fa970edc107\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
 23        android:debuggable="true"
 24        android:extractNativeLibs="false"
 25        android:icon="@mipmap/ic_launcher"
-25-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:11:9-43
+25-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:11:9-43
 26        android:label="@string/app_name"
-26-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:9:9-41
+26-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:9:9-41
 27        android:supportsRtl="true"
-27-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:10:9-35
+27-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:10:9-35
 28        android:theme="@android:style/Theme.Material.Light.NoActionBar" >
-28-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:12:9-72
+28-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:12:9-72
 29
 30        <!-- App metadata - visible in App Info on some Android versions/launchers -->
 31        <meta-data
-31-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:15:9-17:37
-32            android:name="com.agon.app.author"
-32-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:16:13-47
+31-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:15:9-17:37
+32            android:name="com.codelearnweb.app.author"
+32-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:16:13-55
 33            android:value="PiBOH" />
-33-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:17:13-34
+33-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:17:13-34
 34        <meta-data
-34-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:18:9-20:56
-35            android:name="com.agon.app.website"
-35-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:19:13-48
+34-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:18:9-20:56
+35            android:name="com.codelearnweb.app.website"
+35-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:19:13-56
 36            android:value="https://piboh.github.io/" />
-36-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:20:13-53
+36-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:20:13-53
 37        <meta-data
-37-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:21:9-23:71
-38            android:name="com.agon.app.repository"
-38-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:22:13-51
+37-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:21:9-23:71
+38            android:name="com.codelearnweb.app.repository"
+38-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:22:13-59
 39            android:value="https://github.com/PiBOH/CodeLearn1-WEB" />
-39-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:23:13-68
+39-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:23:13-68
 40        <meta-data
-40-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:24:9-26:44
-41            android:name="com.agon.app.license"
-41-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:25:13-48
+40-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:24:9-26:44
+41            android:name="com.codelearnweb.app.license"
+41-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:25:13-56
 42            android:value="GNU AGPL 3.0" />
-42-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:26:13-41
+42-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:26:13-41
 43
 44        <activity
-44-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:28:9-36:20
-45            android:name="com.agon.app.MainActivity"
-45-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:29:13-41
+44-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:28:9-36:20
+45            android:name="com.codelearnweb.app.MainActivity"
+45-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:29:13-41
 46            android:exported="true"
-46-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:30:13-36
+46-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:30:13-36
 47            android:windowSoftInputMode="adjustResize" >
-47-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:31:13-55
+47-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:31:13-55
 48            <intent-filter>
-48-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:32:13-35:29
+48-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:32:13-35:29
 49                <action android:name="android.intent.action.MAIN" />
-49-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:33:17-69
-49-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:33:25-66
+49-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:33:17-69
+49-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:33:25-66
 50
 51                <category android:name="android.intent.category.LAUNCHER" />
-51-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:34:17-77
-51-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0c-1_GLM5\app\src\main\AndroidManifest.xml:34:27-74
+51-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:34:17-77
+51-->D:\8 - GitHub PiBOH\repository\CodeLearn_TUTTE LE VERSIONI\CodeLearn-WEB\CodeLearn-WEB_V1.0.0d-1_GLM5\app\src\main\AndroidManifest.xml:34:27-74
 52            </intent-filter>
 53        </activity>
 54        <activity
@@ -112,7 +112,7 @@
 65-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\60d8e3978c61a10b2d4e65a5bf27cb02\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
 66            android:name="androidx.startup.InitializationProvider"
 66-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\60d8e3978c61a10b2d4e65a5bf27cb02\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
-67            android:authorities="com.agon.app.androidx-startup"
+67            android:authorities="com.codelearnweb.app.androidx-startup"
 67-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\60d8e3978c61a10b2d4e65a5bf27cb02\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
 68            android:exported="false" >
 68-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Utente\.gradle\caches\8.11.1\transforms\60d8e3978c61a10b2d4e65a5bf27cb02\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37

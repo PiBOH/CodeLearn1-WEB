@@ -13,16 +13,16 @@
 
         <!-- App metadata - visible in App Info on some Android versions/launchers -->
         <meta-data
-            android:name="com.agon.app.author"
+            android:name="com.codelearnweb.app.author"
             android:value="PiBOH" />
         <meta-data
-            android:name="com.agon.app.website"
+            android:name="com.codelearnweb.app.website"
             android:value="https://piboh.github.io/" />
         <meta-data
-            android:name="com.agon.app.repository"
+            android:name="com.codelearnweb.app.repository"
             android:value="https://github.com/PiBOH/CodeLearn1-WEB" />
         <meta-data
-            android:name="com.agon.app.license"
+            android:name="com.codelearnweb.app.license"
             android:value="GNU AGPL 3.0" />
 
         <activity

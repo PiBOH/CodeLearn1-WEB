@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.agon.app-mergeDebugResources-44:/values/values.xml",
+            "outputFile": "com.codelearnweb.app-mergeDebugResources-44:/values/values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Utente\\.gradle\\caches\\8.11.1\\transforms\\b92129a2f1806d8b977361ac81562e6a\\transformed\\navigation-runtime-release\\res\\values\\values.xml",
@@ -216,23 +216,6 @@
                     }
                 },
                 {
-                    "source": "D:\\8 - GitHub PiBOH\\repository\\CodeLearn_TUTTE LE VERSIONI\\CodeLearn-WEB\\CodeLearn-WEB_V1.0.0c-1_GLM5\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "50",
-                        "endOffsets": "62"
-                    },
-                    "to": {
-                        "startLines": "195",
-                        "startColumns": "4",
-                        "startOffsets": "9565",
-                        "endColumns": "50",
-                        "endOffsets": "9611"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Utente\\.gradle\\caches\\8.11.1\\transforms\\8b4ffb91f2b02afa4c742d6e47770548\\transformed\\lifecycle-viewmodel\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -266,6 +249,23 @@
                         "endLines": "2,8,16,24,31,37,49,55,61,62,63,64,70,71,72,137,335,347,414,556,574,593",
                         "endColumns": "58,11,11,11,11,11,11,11,11,52,59,51,11,44,38,59,24,24,24,24,24,24",
                         "endOffsets": "204,377,596,815,1046,1216,1530,1718,1905,1958,2018,2070,2239,2284,2323,6469,18898,19360,21444,26737,27480,28263"
+                    }
+                },
+                {
+                    "source": "D:\\8 - GitHub PiBOH\\repository\\CodeLearn_TUTTE LE VERSIONI\\CodeLearn-WEB\\CodeLearn-WEB_V1.0.0d-1_GLM5\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "50",
+                        "endOffsets": "62"
+                    },
+                    "to": {
+                        "startLines": "195",
+                        "startColumns": "4",
+                        "startOffsets": "9565",
+                        "endColumns": "50",
+                        "endOffsets": "9611"
                     }
                 },
                 {
